@@ -1,0 +1,826 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rotten meat could be easier to detect thanks to a new biosensor system developed at Concordia - Concordia University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+Concordia Universityhttps://www.concordia.ca/content/shared/en/news/stories/2022/12/06/rotten-meat-could-be-easier-to-detect-thanks-to-a-new-biosensor-system-developed-at-concordia.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resourcesCampus services
+Book Stop
+IT services
+Job opportunities
+Security
+Mental health support
+Student Service Centre (Birks)
+All campus servicesWhat's new
+Calendar of events
+Latest news
+Media RelationsFaculties, Schools & Colleges
+Arts and Science
+Gina Cody School ofEngineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments.
+
+
+
+
+
+
+Quick links  
+
+
+Webmail
+Library
+Carrefour
+
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resourcesCampus services  
+Book Stop
+IT services
+Job opportunities
+Security
+Mental health support
+Student Service Centre (Birks)
+All campus servicesWhat's new  
+Calendar of events
+Latest news
+Media RelationsFaculties, Schools & Colleges  
+Arts and Science
+Gina Cody School ofEngineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments.
+
+
+
+
+
+
+
+
+
+
+
+Quick links 
+The Campaign for Concordia
+
+MyConcordia
+Carrefour
+Library
+Directories
+A-Z
+Maps
+COVID-19
+
+
+
+
+
+
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+
+
+
+
+
+
+
+Concordia University
+
+
+
+
+Site search
+
+fr
+
+Menu
+
+
+
+Concordia University
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+
+
+
+
+
+Latest news
+
+
+All stories
+
+
+
+
+
+                                                                    Arts & culture
+                                                                
+
+
+
+                                                                    In the community
+                                                                
+
+
+
+                                                                    Research
+                                                                
+
+
+
+                                                                    Sports & wellness
+                                                                
+
+
+
+                                                                    Student life
+                                                                
+
+
+
+                                                                    Teaching
+                                                                
+
+
+
+                                                                    University affairs
+                                                                
+
+
+
+
+
+
+Events
+
+
+Publications & reports
+
+
+Media Relations
+Expend
+
+
+
+
+
+                                                                Our team
+                                                            
+
+
+
+                                                                Find an expert
+                                                            
+
+
+
+                                                                Filming on campus
+                                                            
+
+
+
+
+
+
+
+
+fr
+
+
+The Campaign for Concordia
+
+
+COVID-19
+
+
+
+
+
+
+
+
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resourcesCampus services
+Book Stop
+IT services
+Job opportunities
+Security
+Mental health support
+Student Service Centre (Birks)
+All campus servicesWhat's new
+Calendar of events
+Latest news
+Media RelationsFaculties, Schools & Colleges
+Arts and Science
+Gina Cody School ofEngineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments.
+
+
+
+
+
+
+Quick links  
+
+
+Webmail
+Library
+Carrefour
+
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resourcesCampus services  
+Book Stop
+IT services
+Job opportunities
+Security
+Mental health support
+Student Service Centre (Birks)
+All campus servicesWhat's new  
+Calendar of events
+Latest news
+Media RelationsFaculties, Schools & Colleges  
+Arts and Science
+Gina Cody School ofEngineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments.
+
+
+
+
+
+Information for... 
+
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Site search
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Concordia
+                    
+
+
+
+
+
+                        Directories
+                    
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+News
+
+
+
+
+
+
+
+
+
+
+
+Rotten meat could be easier to detect thanks to a new biosensor system developed at Concordia
+Researchers at the Shih Microfluidics Lab created a disposable, fast and reliable system for identifying putrescine in beef samples
+
+
+
+
+December 6, 2022
+|
+By 
+                                        		Patrick Lejtenyi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Image by Georgia E. Perry
+            
+
+
+
+
+
+
+The supply chain that brings meat to market worldwide is highly complex and usually very efficient. But when disruptions in one part of the world can result in transportation delays an ocean and a continent away, meat spoilage becomes a very real risk to food producers, vendors and consumers. This is especially true if food inspection protocols are lax.
+To improve food safety, a group of Concordia researchers designed a new, inexpensive, reliable and consumer-friendly technology that identifies the presence of the toxin putrescine in beef. As its name denotes, putrescine is responsible for the noxious odours of putrefying meats, and, if consumed in large doses, can cause headaches, vomiting, diarrhea and heart palpitations. It has also been linked to higher risks of colorectal cancer.
+The researchers explain how they developed the paper-based synthetic biosensor in the journal Applied Bio Materials using a protein found in nature.
+“Making a rapid, easy-to-use biosensor for people to check the quality of the food they are eating is empowering,” says lead author Alaa Selim, MSc 22, now pursuing her PhD at the University of Saskatchewan’s Vaccine and Infectious Disease Organization. “We wanted to make a device that anyone could use, that is disposable and contained no toxic materials.”
+Her co-authors include her former PhD student colleagues at the Shih Microfluidics Lab, James Perry, Mohamed Nasr and Jay Pimprikar, as well as Steve Shih, associate professor of electrical and computer engineering. 
+
+
+
+
+
+Alaa Selim: “Making a rapid, easy-to-use biosensor for people to check the quality of the food they are eating is empowering.”
+
+
+
+Results improve over time
+The technique behind the sensor relies on cell-free protein synthesis, which produces a protein using the biological machinery of a cell without actually using the living cell. The researchers found that the putrescine repressor protein PuuR, found in the E.coli bacteria, could be used to indicate the presence of putrescine.
+In a lab test, putrescine was added to the cell-free system that was producing the repressor in a solution and placed on a paper device to see if the researchers could visually see the presence of putrescine under UV light. After an hour, the researchers found that the biosensor was detecting the presence of putrescine; after four hours, they were confident their readings were highly accurate.
+They then proceeded to test actual meat samples. Small slivers of beef kept in a freezer, in a refrigerator and at room temperature were compared to see how much putrescine accumulated over the span of several days. As expected, the samples from the freezer and refrigerator had very low levels of putrescine, while the one kept at room temperature showed quite high levels — enough to sicken anyone who might eat it. They compared the results from their biosensor to those of a high-tech chromatography used in food inspection and found their results to be somewhat correlated.
+
+
+
+
+
+Steve Shih: "We believe this type of sensing can be used for other fields like environmental sampling of heavy metal contamination and cancer and disease diagnostics.”
+
+
+
+A foundational technology
+While a fully functional, commercially available version of the biosensor will not be available any time soon, the researchers are optimistic about its potential.
+“We believe our work is a first step toward using sensors in the meat preparation industry,” says Shih, the Concordia University Research Chair in Microfluidics for Biological and Chemical Analysis. “In addition, we believe this type of sensing can be used for other fields like environmental sampling of heavy metal contamination and cancer and disease diagnostics.”
+For Selim, the most important thing to a consumer is their health and the health of their family. “I want anyone, regardless of their background in technology, to be able to use this, whether it’s a college student, a busy mom or people working in the restaurant industry.”
+This research received funding from the Natural Sciences and Engineering Research Council of Canada, SynBioApps NSERC CREATE program, the Fonds de recherche - Nature et technologies, and the Canadian Foundation of Innovation.
+Read the cited paper: “A Synthetic Biosensor for Detecting Putrescine in Beef Samples.”
+
+
+
+
+
+
+
+Related topics
+
+	            Research subjects            
+	        
+
+	            synthetic biology            
+	        
+
+	            PERFORM            
+	        
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You might also like:
+
+
+
+
+            Concordia researchers develop a new way to find cancer at the nanometre scale 
+        
+
+
+
+
+
+            Concordia hosts the Global BioFoundries Alliance Meeting 2022
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trending
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concordia releases its final report of the President’s Task Force on Anti-Black Racism
+October 28, 2022
+
+
+
+
+
+
+
+
+
+Concordia draws international attention for its approach to sustainability
+November 8, 2022
+
+
+
+
+
+
+
+
+
+Studying while Black at Sir George Williams University — reflections on 1969
+October 28, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Back to top
+
+
+© Concordia University
+
+
+
+
+
+
+
+
+
+
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Careers
+
+
+
+
+
+
+Future students
+Current students
+Alumni & friends
+Parents 
+Faculty & staff
+Media
+
+
+
+
+
+
+
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+
+See SGW Campus map
+
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+
+See Loyola Campus map 
+
+
+
+
+
+
+
+
+
+
+
+
+						Central 514-848-2424 | Security 3717
+					
+
+Emergency info
+|
+Accessibility
+|
+Privacy
+|
+Terms
+|
+Contact us
+|
+Site feedback
+
+
+						© Concordia University.  Montreal, QC, Canada
+					
+
+
+
+Concordia University logo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Concordia University uses technical, analytical, marketing and preference cookies. These are necessary for our site to function properly and to create the best possible online experience.
+Accept   Privacy policy
+
+
+
+
+
